@@ -39,7 +39,7 @@ I enjoy working across the data science workflow — from data collection and cl
 
 ## 🚀 Featured Projects
 
-### 🏒 ShiftIQ — NHL Shift-Level Goal Prediction
+### 🏒 ShiftPredict — NHL Shift-Level Goal Prediction
 **Python · pandas · scikit-learn · NHL API · Machine Learning**
 
 Developing a machine learning pipeline to estimate the probability of an NHL player scoring a goal during an individual shift.
@@ -103,7 +103,7 @@ My projects span several areas of data science and applied machine learning:
 
 | Project | Domain | Key Skills |
 |---|---|---|
-| ShiftIQ | Sports analytics | Predictive modeling, feature engineering |
+| ShiftPredict | Sports analytics | Predictive modeling, feature engineering |
 | Bank Personal Loan | Business analytics | EDA, customer analysis, classification |
 | Country-of-Origin Recognition | Computer vision | OpenCV, image processing |
 | Road Sign Recognition | Computer vision | Image preprocessing, recognition |
