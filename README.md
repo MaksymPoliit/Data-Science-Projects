@@ -42,15 +42,73 @@ I enjoy working across the data science workflow — from data collection and cl
 ### 🏒 ShiftIQ — NHL Shift-Level Goal Prediction
 **Python · pandas · scikit-learn · NHL API · Machine Learning**
 
-A machine learning project focused on estimating the probability of an NHL player scoring a goal during an individual shift.
+Developing a machine learning pipeline to estimate the probability of an NHL player scoring a goal during an individual shift.
 
 - Collecting and processing hockey data from NHL APIs.
 - Engineering features from player performance, game situations, and opponent statistics.
-- Developing and comparing classification models.
-- Evaluating predictive performance using metrics suited to imbalanced datasets.
+- Comparing classification models using metrics suited to imbalanced datasets.
 - Building a reproducible workflow for data collection, preprocessing, training, and evaluation.
 
-**Key learning areas:** time-aware feature engineering, imbalanced classification, probability estimation, and model evaluation.
+**Focus areas:** Predictive modeling, feature engineering, probability estimation, and model evaluation.
+
+*Status: In development.*
+
+---
+
+### 🏦 Bank Personal Loan Analysis
+**Python · pandas · NumPy · Data Analysis · Machine Learning**
+
+Analyzing personal loan customer data to explore customer characteristics and factors associated with loan acceptance.
+
+- Exploring customer data and identifying relevant patterns.
+- Performing data cleaning and exploratory data analysis (EDA).
+- Investigating relationships between customer attributes and loan outcomes.
+- Exploring opportunities for predictive modeling to support customer targeting and decision-making.
+
+**Focus areas:** Business analytics, customer segmentation, exploratory data analysis, and classification.
+
+---
+
+### 🪪 Country-of-Origin Recognition from Identity Documents
+**Python · OpenCV (cv2) · Computer Vision · Image Processing**
+
+Developing an image-processing project to recognize a document's country of origin using computer vision techniques.
+
+- Working with image data using OpenCV.
+- Exploring image preprocessing and visual feature extraction.
+- Investigating techniques for distinguishing documents based on visual characteristics.
+
+**Focus areas:** Computer vision, image processing, and image classification.
+
+---
+
+### 🚦 Road Sign Recognition
+**Python · OpenCV (cv2) · Computer Vision · Image Classification**
+
+Exploring computer vision techniques for recognizing road signs from image data.
+
+- Loading and processing images using OpenCV.
+- Preparing image data for recognition tasks.
+- Exploring visual patterns and features that distinguish road sign categories.
+- Working toward a road sign recognition workflow.
+
+**Focus areas:** Computer vision, image preprocessing, image classification, and pattern recognition.
+
+
+---
+
+## 📂 Project Portfolio
+
+My projects span several areas of data science and applied machine learning:
+
+| Project | Domain | Key Skills |
+|---|---|---|
+| ShiftIQ | Sports analytics | Predictive modeling, feature engineering |
+| Bank Personal Loan | Business analytics | EDA, customer analysis, classification |
+| Country-of-Origin Recognition | Computer vision | OpenCV, image processing |
+| Road Sign Recognition | Computer vision | Image preprocessing, recognition |
+
+
 
 
 ## 📈 What I'm Working On
